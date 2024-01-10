@@ -134,4 +134,3 @@ Use Android Studio's debugging tools to identify and fix issues.
 **updating the task**
 ![Screenshot_20240110_151839](https://github.com/vutukurikavya7/KekaTaskToDoList/assets/80099931/2ae3a1c9-2eca-4b8c-8ae5-05a68fd96878)
 
-
