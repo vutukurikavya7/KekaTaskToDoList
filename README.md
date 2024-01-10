@@ -1,8 +1,11 @@
 ##Description:##
+
 The Android To-Do List Application is designed to help users organize and manage their tasks efficiently. The application uses SQLite as a local database to store and retrieve task-related information. Users can create, update, delete, and mark tasks as completed.
 
 ##Key Features:##
+
 ##Task Management:##
+
 Create new tasks with a title, description,Priority and due date.
 Edit existing tasks to modify details.
 Mark tasks as completed or uncompleted.
